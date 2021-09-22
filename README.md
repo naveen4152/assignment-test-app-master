@@ -1,3 +1,3 @@
 Tests are in SRC folder.
-Done with Landing and Home.
+Landing(80%) and Home(66%).
 Trying to implement other tests too.
